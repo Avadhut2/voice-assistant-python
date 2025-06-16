@@ -1,0 +1,6 @@
+pyttsx3
+speechrecognition
+pyjokes
+wikipedia
+requests
+beautifulsoup4
