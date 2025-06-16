@@ -10,7 +10,6 @@ This is a simple voice assistant built using Python. It listens to voice command
 - 🤣 Tells jokes using `pyjokes`
 - 🌐 Summarizes topics using `wikipedia` and Google
 - 🧠 Learns new commands and saves them to `learned_commands.json`
-- 🔒 Clean and beginner-friendly code
 
 ## 🧪 How to Run
 
